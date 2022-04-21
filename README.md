@@ -18,7 +18,7 @@ Media manager for `local` disk.
 ## Installation
 
 ```
-$ composer require laravel-admin-ext/media-manager -vvv
+$ composer require snowsoft/media-manager -vvv
 
 $ php artisan admin:import media-manager
 ```
