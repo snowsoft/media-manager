@@ -19,10 +19,10 @@ Media manager for `local` disk.
 
 ```shell
 // For laravel-admin 1.x
-composer require laravel-admin-ext/media-manager:1.x -vvv
+composer require snowsoft/media-manager:1.x -vvv
 
 // For laravel-admin 2.x
-composer require laravel-admin-ext/media-manager:2.x -vvv
+composer require snowsoft/media-manager:2.x -vvv
 
 php artisan admin:import media-manager
 ```
