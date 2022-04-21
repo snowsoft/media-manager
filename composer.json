@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/media-manager",
+    "name": "snowsoft/media-manager",
     "description": "Media manager for laravel",
     "type": "library",
     "keywords": ["laravel-admin", "media", "manager"],
-    "homepage": "https://github.com/laravel-admin-extensions/media-manager",
+    "homepage": "https://github.com/snowsoft/media-manager",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "encore/laravel-admin": "*"
+        "snowsoft/laravel-admin": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
